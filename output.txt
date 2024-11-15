@@ -1,0 +1,6 @@
+The size of this LRU Cache is: 2
+0
+alpha
+0
+gamma
+
